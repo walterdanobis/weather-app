@@ -1,4 +1,16 @@
-# Weather App
+# Clima App
+
+## Descripción
+Aplicación sencilla que muestra el clima actual de diferentes ciudades utilizando la API de OpenWeatherMap. Permite seleccionar un país, ingresar una ciudad, y ver detalles como la temperatura, descripción del clima, humedad, etc.
+
+## Instalación
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/tuusuario/clima-app.git
+cd clima-app
+
 
 Este es un proyecto de una aplicación de clima utilizando **React** y la API de OpenWeatherMap. Permite a los usuarios obtener información meteorológica actualizada de diversas ciudades en diferentes países.
 
@@ -16,3 +28,4 @@ Este es un proyecto de una aplicación de clima utilizando **React** y la API de
 2. Instalar las dependencias:
    ```bash
    npm install
+
