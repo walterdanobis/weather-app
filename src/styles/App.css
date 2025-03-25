@@ -1,0 +1,49 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.search-container {
+  margin: 20px 0;
+}
+
+select,
+input {
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.error {
+  color: red;
+}
+
+.weather-card {
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.weather-card.cold {
+  background-color: #a0d0ff;
+}
+
+.weather-card.warm {
+  background-color: #ffd699;
+}
+
+.weather-card.hot {
+  background-color: #ff6f61;
+}
+
+.unit-toggle button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
